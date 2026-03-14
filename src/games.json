@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile! A classic addictive puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/2048/300/200",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "A fast-paced puzzle game inspired by Tetris. Rotate the hexagon to match colors.",
+    "thumbnail": "https://picsum.photos/seed/hextris/300/200",
+    "iframeUrl": "https://hextris.io/"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "The ultimate speed run game. Drive your ball down the steep slope as far as possible.",
+    "thumbnail": "https://picsum.photos/seed/slope/300/200",
+    "iframeUrl": "https://slopegame.io/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world's most popular block-stacking puzzle game. Clear lines and score points.",
+    "thumbnail": "https://picsum.photos/seed/tetris/300/200",
+    "iframeUrl": "https://tetris.com/play-tetris"
+  }
+]
