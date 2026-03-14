@@ -5,34 +5,12 @@ import gamesData from './games.json';
 import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
-interface Game {
-  id: string;
-  title: string;
-  description: string;
-  thumbnail: string;
-  iframeUrl: string;
-}
-
-interface Sound {
-  id: string;
-  title: string;
-  url: string;
-  transcript: string;
-}
-
-interface Movie {
-  id: string;
-  title: string;
-  thumbnail: string;
-  driveUrl: string;
-}
-
 export default function App() {
   const [activeTab, setActiveTab] = useState('games');
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedGame, setSelectedGame] = useState<Game | null>(null);
-  const [activeTranscript, setActiveTranscript] = useState<string | null>(null);
-  const playingSounds = useRef<{ [key: string]: HTMLAudioElement }>({});
+  const [selectedGame, setSelectedGame] = useState(null);
+  const [activeTranscript, setActiveTranscript] = useState(null);
+  const playingSounds = useRef({});
 
   const cloak = () => {
     const win = window.open();
@@ -57,25 +35,25 @@ export default function App() {
   };
 
   const filteredGames = useMemo(() => {
-    return (gamesData as Game[]).filter(game => 
+    return gamesData.filter(game => 
       game.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
       game.description.toLowerCase().includes(searchQuery.toLowerCase())
     );
   }, [searchQuery]);
 
   const filteredSounds = useMemo(() => {
-    return (soundsData as Sound[]).filter(sound => 
+    return soundsData.filter(sound => 
       sound.title.toLowerCase().includes(searchQuery.toLowerCase())
     );
   }, [searchQuery]);
 
   const filteredMovies = useMemo(() => {
-    return (moviesData as Movie[]).filter(movie => 
+    return moviesData.filter(movie => 
       movie.title.toLowerCase().includes(searchQuery.toLowerCase())
     );
   }, [searchQuery]);
 
-  const playSound = (sound: Sound) => {
+  const playSound = (sound) => {
     const audio = new Audio(sound.url);
     const playId = sound.id + Date.now();
     playingSounds.current[playId] = audio;
@@ -91,7 +69,7 @@ export default function App() {
     };
   };
 
-  const downloadSound = (sound: Sound) => {
+  const downloadSound = (sound) => {
     const link = document.createElement('a');
     link.href = sound.url;
     link.download = `${sound.title}.mp3`;
@@ -101,7 +79,7 @@ export default function App() {
   };
 
   const stopAllSounds = () => {
-    (Object.values(playingSounds.current) as HTMLAudioElement[]).forEach(audio => {
+    Object.values(playingSounds.current).forEach(audio => {
       audio.pause();
       audio.currentTime = 0;
     });
