@@ -55,19 +55,43 @@ export default function App() {
   }, [searchQuery]);
 
   const playSound = (sound) => {
-    const audio = new Audio(sound.url);
-    const playId = sound.id + Date.now();
-    playingSounds.current[playId] = audio;
-    
-    setActiveTranscript(sound.transcript);
-    
-    audio.play();
-    audio.onended = () => {
-      delete playingSounds.current[playId];
-      if (Object.keys(playingSounds.current).length === 0) {
-        setActiveTranscript(null);
+    try {
+      // Stop existing instance if it's already playing to avoid overlap
+      if (playingSounds.current[sound.id]) {
+        playingSounds.current[sound.id].pause();
+        playingSounds.current[sound.id].currentTime = 0;
       }
-    };
+
+      const audio = new Audio(sound.url);
+      audio.crossOrigin = "anonymous";
+      audio.preload = "auto";
+      
+      const playId = sound.id;
+      playingSounds.current[playId] = audio;
+      
+      setActiveTranscript(sound.transcript);
+      
+      const playPromise = audio.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(error => {
+          console.error("Playback failed:", error);
+          setActiveTranscript(`BLOCKED: ${sound.title}`);
+          setTimeout(() => setActiveTranscript(null), 3000);
+        });
+      }
+
+      audio.onended = () => {
+        if (playingSounds.current[playId] === audio) {
+          delete playingSounds.current[playId];
+          if (Object.keys(playingSounds.current).length === 0) {
+            setActiveTranscript(null);
+          }
+        }
+      };
+    } catch (err) {
+      console.error("Audio creation failed:", err);
+      setActiveTranscript("System Error: Audio Init Failed");
+    }
   };
 
   const downloadSound = (sound) => {

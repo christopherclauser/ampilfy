@@ -2,331 +2,61 @@
   {
     "id": "batman-beyond-s1",
     "title": "Batman Beyond Season 1",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzI2N2Y5YjUtZTRjMi00ZGNjLThkMzgtYmE2Yjg0YmI2NGRlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6oXp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/drive/folders/1rrz2S1Rc7wEw4jl-6tuKd3-WRZ6mK0-W"
   },
   {
     "id": "batman-beyond-s2",
     "title": "Batman Beyond Season 2",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzI2N2Y5YjUtZTRjMi00ZGNjLThkMzgtYmE2Yjg0YmI2NGRlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6oXp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/drive/folders/1fvCT82F2qUXkC83CDjMvmSildfD1-Dtr"
   },
   {
     "id": "batman-beyond-s3",
     "title": "Batman Beyond Season 3",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzI2N2Y5YjUtZTRjMi00ZGNjLThkMzgtYmE2Yjg0YmI2NGRlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6oXp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/drive/folders/1c9yUs9q822bPBSAFpHi71mjCZnt7wawP"
   },
   {
     "id": "venom-last-dance",
     "title": "Venom: The Last Dance",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/aosmBSj9mBfCDBR6STeo6Huw97u.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/aosmBSj9mX7D4XC6g8mX7D4XC6g.jpg",
     "driveUrl": "https://drive.google.com/file/d/1hASiHRDz9oyG-NSHEzLNLPFeAMa_HuoH/view"
   },
   {
     "id": "joker-folie-a-deux",
     "title": "Joker: Folie a Deux",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/j9mH1D3mABvY9LJyORbyC79HjC2.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/n6Xp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/file/d/1wiipkIcZ8r4itPij4w7CpOvC6uz-2wCS/view"
   },
   {
     "id": "transformers-one",
     "title": "Transformers One",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/iHPI3mS69S7S2S6S6S6S6S6S6S6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6oXp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/file/d/10cwJT2ssiHVBeRWMdEVHKt0bhk8PVOHY/view"
   },
   {
     "id": "beetlejuice-beetlejuice",
     "title": "Beetlejuice Beetlejuice",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/kKgQzkUCnKVs9pS2tC3tIUUDu9m.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6oXp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/file/d/1OsCtW4NUV94utDNxmFejUFoH6euf8Ind/view"
   },
   {
     "id": "amazing-spiderman-1",
     "title": "The Amazing Spiderman",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/jX899sgiaA6vU97H996Bv6Gv6Yv.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6oXp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/file/d/1Xf8xZcY3kneGFln8NPsQMt7CLtmGhEeD/view"
   },
   {
     "id": "amazing-spiderman-2",
     "title": "The Amazing Spiderman 2",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/6v8y6S6S6S6S6S6S6S6S6S6S6S6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6oXp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/file/d/1hnYa-Pkxqu6Qhhp56QXE34Rnctia_3yw/view"
   },
   {
     "id": "mean-girls",
     "title": "Mean Girls",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/98S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6oXp0U1z6k5m2v2X6u8m2v2X6u8.jpg",
     "driveUrl": "https://drive.google.com/file/d/1Hab49OuPK37MngOtQolLsVIzJ4AK9cNA/view"
-  },
-  {
-    "id": "major-payne",
-    "title": "Major Payne",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc5OTY0NjU1Nl5BMl5BanBnXkFtZTcwMzgyMDUzMQ@@._V1_.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1HOBF8qYxnEXjbjouFThL4B3ttoBiNUOY/view"
-  },
-  {
-    "id": "rise-planet-apes",
-    "title": "Rise of the Planet of the Apes",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/7S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1gfhsOi21mgw9MPdSo6ttTMFJbhNKuwjn/view"
-  },
-  {
-    "id": "the-matrix",
-    "title": "The Matrix",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/f89U3Y9S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1qUy2Uk4nAGj72Ev81g67tx-snjKA-6Ne/view"
-  },
-  {
-    "id": "scarface",
-    "title": "Scarface",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/8S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1yC6lNaMy_WUIK3eKkKoRSEU0Y-cSJBnV/view"
-  },
-  {
-    "id": "it-movie",
-    "title": "IT",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/9S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1T5xeDfwFXqP0WJMExe3nwnwHgUozfXK2/view"
-  },
-  {
-    "id": "get-out",
-    "title": "Get Out",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/10S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1NAL07bOQPidzTFNMSrccqr53PGag6nn2/view"
-  },
-  {
-    "id": "kill-bill-1",
-    "title": "Kill Bill Volume 1",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/11S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1O7IPP73pLpqj6qH4mfqjDhwNbeDMSU7N/view"
-  },
-  {
-    "id": "kill-bill-2",
-    "title": "Kill Bill Volume 2",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/12S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1p5DfNhB87k8bE-OQi7ELONmPkIhJIjC-/view"
-  },
-  {
-    "id": "jumanji-1",
-    "title": "Jumanji",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/13S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1tXnq5Vy82ADqguaPVxH586h3IR5x6vEZ/view"
-  },
-  {
-    "id": "jumanji-2",
-    "title": "Jumanji: Welcome to the Jungle",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/14S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1KownBUZELkJDdp-Rbg8Z4YI7n1msEWbD/view"
-  },
-  {
-    "id": "jumanji-3",
-    "title": "Jumanji: The Next Level",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/15S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1aM4O7Zp59daNOwMVW7jvHYUCLEwAXjI_/view"
-  },
-  {
-    "id": "back-to-the-future",
-    "title": "Back to the Future",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/16S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1RvzJFPZbr-jM8EKjMFUb56QLDHQ4LTBV/view"
-  },
-  {
-    "id": "monsters-inc",
-    "title": "Monsters Inc",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/17S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1lmlVArBa1cDynHvvDOddrMnCPvYaFVeK/view"
-  },
-  {
-    "id": "ratatouille",
-    "title": "Ratatouille",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/18S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1uVj2JrFRHnjog3g1uWaFRSjJFmhVs36z/view"
-  },
-  {
-    "id": "tangled",
-    "title": "Tangled",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/19S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1eirKJt3ulfEusRJ6OM0jwpJ_YbL8iExC/view"
-  },
-  {
-    "id": "frozen-1",
-    "title": "Frozen",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/20S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1XIuN4Zp35mW0iN4p0ME5APxH18-6Zqft/view"
-  },
-  {
-    "id": "frozen-2",
-    "title": "Frozen 2",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/21S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1hpUpKEdeT9ta-8FjSpMUAXw17E-8uwIY/view"
-  },
-  {
-    "id": "harry-potter-3",
-    "title": "Harry Potter and the Prisoner of Azkaban",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/22S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1Zu15ykGtc1xxKIKfAeUV_L1vAbCt--zO/view"
-  },
-  {
-    "id": "minecraft-movie",
-    "title": "A Minecraft Movie",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/23S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1Lk4wglli3RBp9S9_BLq9jf1TSeFUHV6h/view"
-  },
-  {
-    "id": "detective-pikachu",
-    "title": "Detective Pikachu",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/24S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1q5wcbuy536XQKTBAF7ImApMAlNMVHM5T/view"
-  },
-  {
-    "id": "karate-kid",
-    "title": "The Karate Kid",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/25S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1tMJAooF8bG9ghav9CU4GPYF3t07ySMXL/view"
-  },
-  {
-    "id": "elf-movie",
-    "title": "Elf",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/26S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1-cJP_6uvuboesHkiYPgfIg49eKvsBsF0/view"
-  },
-  {
-    "id": "garfield-movie",
-    "title": "The Garfield Movie",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/27S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1g_YZyeIbjua21PNL4ZLfeIzJx-givpPE/view"
-  },
-  {
-    "id": "boss-baby-1",
-    "title": "The Boss Baby",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/28S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1gdwI2JzBioxG5X6ewvaG2mcMeCUW346o/view"
-  },
-  {
-    "id": "boss-baby-2",
-    "title": "The Boss Baby: Family Business",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/29S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1aiZMcnKPiHlmK9D0HpQRKd-SueENFFFC/view"
-  },
-  {
-    "id": "white-chicks",
-    "title": "White Chicks",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/30S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1IniRDbSyVeGuGIadQ_rX9RL8AJczmm2S/view"
-  },
-  {
-    "id": "silent-voice",
-    "title": "A Silent Voice",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/31S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1hubf23qpnfAJFk6b7sbouCIgtS17ZMfz/view"
-  },
-  {
-    "id": "your-name",
-    "title": "Your Name",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/32S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1UkM5vQWnaJRSXuIWbwh_8s3DvGoeHNJc/view"
-  },
-  {
-    "id": "invincible-s1",
-    "title": "Invincible Season 1",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/33S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/1zmmI7jUqJYKkSwpIsCvEJJ7PCw9uFGy7"
-  },
-  {
-    "id": "invincible-s2",
-    "title": "Invincible Season 2",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/34S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/1X0cuKkqYv2wmhOxV1SNwkrkq739OJ9HO"
-  },
-  {
-    "id": "moon-knight",
-    "title": "Moon Knight",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/35S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/1nW610bRzpYobTHqK5k13LRkiZrRvDmZ8"
-  },
-  {
-    "id": "cobra-kai-s1",
-    "title": "Cobra Kai Season 1",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/36S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/1idzqcZUju0ADDEWnm1D9AC344rIFiGRN"
-  },
-  {
-    "id": "little-mermaid-2023",
-    "title": "The Little Mermaid (2023)",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/37S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1sFYkkRX85JK-a2LRl8_QmZPhYkYIn6KG/view"
-  },
-  {
-    "id": "hsm-2",
-    "title": "High School Musical 2",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/38S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1iE1foAQrNAMJJg3aOd37GECWBkXmAEi7/view"
-  },
-  {
-    "id": "hsm-3",
-    "title": "High School Musical 3",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/39S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1aGq7saEhWkyACQlOmGIAmylSTeEOL864/view"
-  },
-  {
-    "id": "piece-by-piece",
-    "title": "Piece by Piece",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/40S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1VFcUmw2ezWybQqevoY8jh3F50yWkxwzQ/view"
-  },
-  {
-    "id": "smile-1",
-    "title": "Smile",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/41S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1-uZq4Am62uCfNJoudwKp6ffq9T0o_LKF/view"
-  },
-  {
-    "id": "smile-2",
-    "title": "Smile 2",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/42S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1VUL8POnA90Py_wWlhPwUq8e4J6Z1lTJ9/view"
-  },
-  {
-    "id": "christmas-story",
-    "title": "A Christmas Story",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/43S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1nz29MUfftWx_MeBVh4Bn7TVXlUy_6BH2/view"
-  },
-  {
-    "id": "abbott-s1",
-    "title": "Abbott Elementary Season 1",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/44S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/13dLvT0_1TkcRmVmF6tZlm80xqeoWhxZp"
-  },
-  {
-    "id": "abbott-s2",
-    "title": "Abbott Elementary Season 2",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/45S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/1gAtljQ6SnEWUS8HXW-y5jtbcKILcUnFU"
-  },
-  {
-    "id": "south-park",
-    "title": "South Park (Seasons 1-26)",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/46S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/1PzKaoaK4blzlaoxnwC20gZoeYE5mDxWL"
-  },
-  {
-    "id": "frieren",
-    "title": "Frieren: Beyond Journey's End",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/47S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/1FdJmWDqhtbTywSnTdIXP6M1_V1waz7Ys"
-  },
-  {
-    "id": "delicious-dungeon",
-    "title": "Delicious in Dungeon",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/48S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/drive/folders/1-WRkUvVifVomqX101ohL_4k_2EBN4yk-"
-  },
-  {
-    "id": "road-chipped",
-    "title": "Road Chipped",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/49S6S6S6S6S6S6S6S6S6S6S6S6S6.jpg",
-    "driveUrl": "https://drive.google.com/file/d/1ljX4FCKuoIuDR-hcH3J97hZ21Os_4C3W/view"
   }
 ]
