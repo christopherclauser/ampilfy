@@ -6,6 +6,7 @@ import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
 export default function App() {
+  console.log('App mounting...');
   const [activeTab, setActiveTab] = useState('games');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedGame, setSelectedGame] = useState(null);
