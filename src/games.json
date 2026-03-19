@@ -26,5 +26,19 @@
     "description": "The world's most popular block-stacking puzzle game. Clear lines and score points.",
     "thumbnail": "https://picsum.photos/seed/tetris/300/200",
     "iframeUrl": "https://tetris.com/play-tetris"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and beat the competition. A smooth drawing experience!",
+    "thumbnail": "https://picsum.photos/seed/paperio/300/200",
+    "iframeUrl": "https://paper-io.com/"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "description": "Play the original Minecraft in your browser. Build anything you can imagine!",
+    "thumbnail": "https://picsum.photos/seed/minecraft/300/200",
+    "iframeUrl": "https://classic.minecraft.net/"
   }
 ]

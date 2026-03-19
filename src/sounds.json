@@ -2,67 +2,169 @@
   {
     "id": "bruh",
     "title": "Bruh",
-    "url": "https://www.soundbuttons.org/download/698c58759aaf9b950da345f6/",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6386",
     "transcript": "Bruh..."
   },
   {
     "id": "airhorn",
     "title": "Airhorn",
-    "url": "https://www.soundbuttons.org/download/677cf88a22ad0f18357ac1b6/",
+    "url": "https://www.fesliyanstudios.com/play-mp3/5657",
     "transcript": "*LOUD AIRHORN BLAST*"
   },
   {
     "id": "taco-bell",
     "title": "Taco Bell",
-    "url": "https://www.soundbuttons.org/download/677bccb66565b4369cf2c6a9/",
+    "url": "https://www.fesliyanstudios.com/play-mp3/5253",
     "transcript": "*BONG*"
   },
   {
-    "id": "vine-thud",
-    "title": "Vine Thud",
-    "url": "https://www.soundbuttons.org/download/677fb8d2e3e2f6128c43c87f/",
+    "id": "vine-boom",
+    "title": "Vine Boom",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6382",
     "transcript": "*BOOM*"
   },
   {
     "id": "emotional-damage",
     "title": "Emotional Damage",
-    "url": "https://www.soundbuttons.org/download/677bc90bfa3b63bb52792600/",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6681",
     "transcript": "EMOTIONAL DAMAGE!"
   },
   {
     "id": "among-us",
     "title": "Among Us",
-    "url": "https://www.soundbuttons.org/download/677d0788534a8bb077c74492/",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6383",
     "transcript": "*AMONG US REVEAL SOUND*"
   },
   {
     "id": "fbi-open-up",
     "title": "FBI Open Up",
-    "url": "https://www.soundbuttons.org/download/68a6f46429864faf374e3e8d/",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6384",
     "transcript": "FBI OPEN UP! *CRASH*"
   },
   {
     "id": "discord-join",
     "title": "Discord Join",
-    "url": "https://www.soundbuttons.org/download/677bc635a0b24c4422f6d682/",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6385",
     "transcript": "*DISCORD JOIN SOUND*"
   },
   {
-    "id": "nani",
-    "title": "Nani",
-    "url": "https://www.soundbuttons.org/download/68b29a3bc6d3449ebaf7d148/",
-    "transcript": "Omae wa mou shindeiru. NANI?!"
+    "id": "discord-message",
+    "title": "Discord Message",
+    "url": "https://www.myinstants.com/media/sounds/discord-notification.mp3",
+    "transcript": "*DISCORD MESSAGE SOUND*"
   },
   {
-    "id": "wow",
-    "title": "Wow",
-    "url": "https://www.soundbuttons.org/download/6780ae0c2afffd40ef97dd33/",
-    "transcript": "WOW!"
+    "id": "roblox-death",
+    "title": "Roblox Death",
+    "url": "https://www.myinstants.com/media/sounds/roblox-death-sound_1.mp3",
+    "transcript": "OOF!"
   },
   {
     "id": "run",
     "title": "Run",
-    "url": "https://www.soundbuttons.org/download/677cfab722ad0f18357ac1c6/",
+    "url": "https://www.myinstants.com/media/sounds/run-meme-sound.mp3",
     "transcript": "RUN!"
+  },
+  {
+    "id": "vine-thud",
+    "title": "Vine Thud",
+    "url": "https://www.myinstants.com/media/sounds/vine-thud-sound-effect.mp3",
+    "transcript": "*THUD*"
+  },
+  {
+    "id": "sad-violin",
+    "title": "Sad Violin",
+    "url": "https://www.myinstants.com/media/sounds/sad-violin.mp3",
+    "transcript": "*SAD VIOLIN MUSIC*"
+  },
+  {
+    "id": "stop-the-cap",
+    "title": "Stop the Cap",
+    "url": "https://www.myinstants.com/media/sounds/stop-the-cap.mp3",
+    "transcript": "STOP THE CAP!"
+  },
+  {
+    "id": "fart-reverb",
+    "title": "Fart Reverb",
+    "url": "https://www.myinstants.com/media/sounds/fart-with-reverb.mp3",
+    "transcript": "*FART WITH REVERB*"
+  },
+  {
+    "id": "dog-doin",
+    "title": "What the dog doin",
+    "url": "https://www.myinstants.com/media/sounds/what-the-dog-doin.mp3",
+    "transcript": "What the dog doin?"
+  },
+  {
+    "id": "some-milk",
+    "title": "He needs some milk",
+    "url": "https://www.myinstants.com/media/sounds/he-needs-some-milk.mp3",
+    "transcript": "HE NEEDS SOME MILK!"
+  },
+  {
+    "id": "bully-me",
+    "title": "Why you bully me",
+    "url": "https://www.myinstants.com/media/sounds/why-you-bully-me.mp3",
+    "transcript": "Why you bully me?"
+  },
+  {
+    "id": "triple",
+    "title": "Oh baby a triple",
+    "url": "https://www.myinstants.com/media/sounds/oh-baby-a-triple.mp3",
+    "transcript": "OH BABY A TRIPLE!"
+  },
+  {
+    "id": "no-god",
+    "title": "No God Please No",
+    "url": "https://www.myinstants.com/media/sounds/no-god-please-no.mp3",
+    "transcript": "NO GOD PLEASE NO!"
+  },
+  {
+    "id": "hello-there",
+    "title": "Hello there",
+    "url": "https://www.myinstants.com/media/sounds/hello-there.mp3",
+    "transcript": "Hello there!"
+  },
+  {
+    "id": "fast-as-fuck",
+    "title": "Fast as f***",
+    "url": "https://www.myinstants.com/media/sounds/im-fast-as-fuck-boy.mp3",
+    "transcript": "I'm fast as f*** boi!"
+  },
+  {
+    "id": "coems",
+    "title": "Coems",
+    "url": "https://www.myinstants.com/media/sounds/coems.mp3",
+    "transcript": "COEMS!"
+  },
+  {
+    "id": "siuuu",
+    "title": "Siuuu",
+    "url": "https://www.myinstants.com/media/sounds/siuuu.mp3",
+    "transcript": "SIUUU!"
+  },
+  {
+    "id": "baby-laugh",
+    "title": "Baby Laugh",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6514",
+    "transcript": "*BABY LAUGHING*"
+  },
+  {
+    "id": "baby-cry",
+    "title": "Baby Cry",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6515",
+    "transcript": "*BABY CRYING*"
+  },
+  {
+    "id": "baby-giggle",
+    "title": "Baby Giggle",
+    "url": "https://www.fesliyanstudios.com/play-mp3/6516",
+    "transcript": "*BABY GIGGLING*"
+  },
+  {
+    "id": "giga-chad",
+    "title": "Giga Chad",
+    "url": "https://www.myinstants.com/media/sounds/giga-chad-theme.mp3",
+    "transcript": "*GIGA CHAD THEME*"
   }
 ]
