@@ -40,5 +40,19 @@
     "description": "Play the original Minecraft in your browser. Build anything you can imagine!",
     "thumbnail": "https://picsum.photos/seed/minecraft/300/200",
     "iframeUrl": "https://classic.minecraft.net/"
+  },
+  {
+    "id": "classroom-6x",
+    "title": "Classroom 6X",
+    "description": "Play on Classroom 6X. A collection of fun games.",
+    "thumbnail": "https://picsum.photos/seed/classroom6x/300/200",
+    "iframeUrl": "https://script.google.com/macros/s/AKfycbyix6sPjvsn_izDvhJLVuif1buj9ZtARvj9D_FEQ0rscRXgl-RgArs0t4oJw_OHm5Dr5A/exec"
+  },
+  {
+    "id": "color-tunnel-2",
+    "title": "Color Tunnel 2",
+    "description": "Color Tunnel 2 - Tunnel Rush: on Chromebook delivers seamless, lag-free gaming with an optimized interface.",
+    "thumbnail": "https://lnahtml.github.io/img/color-tunnel-2.png",
+    "iframeUrl": "https://lnahtml.github.io/a/color-tunnel-2"
   }
 ]
