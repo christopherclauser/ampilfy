@@ -7,7 +7,7 @@ import moviesData from './movies.json';
 
 export default function App() {
   console.log('App mounting...');
-  const [view, setView] = useState<string>('app'); // 'amplify' or 'app'
+  const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
   const [dashboardTab, setDashboardTab] = useState<string>('apps'); // 'apps', 'todo', 'past'
   const [activeTab, setActiveTab] = useState<string>('games');
   const [searchQuery, setSearchQuery] = useState<string>('');
