@@ -7,7 +7,7 @@ import moviesData from './movies.json';
 
 export default function App() {
   console.log('App mounting...');
-  const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
+  const [view, setView] = useState<string>('app'); // 'amplify' or 'app'
   const [dashboardTab, setDashboardTab] = useState<string>('apps'); // 'apps', 'todo', 'past'
   const [activeTab, setActiveTab] = useState<string>('games');
   const [searchQuery, setSearchQuery] = useState<string>('');
@@ -912,7 +912,10 @@ export default function App() {
             <button className="w-12 h-12 flex items-center justify-center bg-[#E8F0FE] text-[#1A73E8] rounded-full shadow-sm hover:bg-[#D2E3FC] transition-colors">
               <Backpack className="w-6 h-6" />
             </button>
-            <button className="w-12 h-12 flex items-center justify-center bg-[#1A73E8] text-white rounded-full shadow-md hover:bg-[#1765CC] transition-colors">
+            <button 
+              onClick={() => setView('app')}
+              className="w-12 h-12 flex items-center justify-center bg-[#1A73E8] text-white rounded-full shadow-md hover:bg-[#1765CC] transition-colors"
+            >
               <LogOut className="w-6 h-6" />
             </button>
           </div>
@@ -1143,7 +1146,7 @@ export default function App() {
                 Cloak Site
               </span>
             </button>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-2 hover:bg-white/10 rounded-lg transition-colors">
+            <a href="https://github.com/TopherClauser/TopherGames" target="_blank" rel="noopener noreferrer" className="p-2 hover:bg-white/10 rounded-lg transition-colors">
               <Github className="w-5 h-5 text-zinc-400" />
             </a>
           </div>
