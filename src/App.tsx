@@ -6,8 +6,8 @@ import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
 export default function App() {
-  const VERSION = "2.1.2";
-  console.log(`App mounting... Version: ${VERSION} (${new Date().toISOString()})`);
+  const VERSION = "2.1.3";
+  console.log(`[SYSTEM] Booting version ${VERSION} at ${new Date().toISOString()}`);
   const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
   console.log('Current view state:', view);
   const [dashboardTab, setDashboardTab] = useState<string>('apps'); // 'apps', 'todo', 'past'
@@ -875,6 +875,12 @@ export default function App() {
   if (view === 'amplify') {
     return (
       <div className="min-h-screen bg-gradient-to-b from-[#2B58A7] via-[#3A78B5] to-[#4DB6AC] text-white font-['Lexend'] relative overflow-hidden">
+        {/* Debug Banner */}
+        <div className="bg-black text-[#00f3ff] text-[10px] py-1 px-4 font-mono flex justify-between items-center border-b border-[#00f3ff]/30 z-[60] relative">
+          <span>SYSTEM STATUS: OPERATIONAL</span>
+          <span className="animate-pulse">BUILD_ID: {VERSION}_STABLE</span>
+          <span>{new Date().toLocaleDateString()}</span>
+        </div>
         {/* Background Patterns */}
         <div className="absolute inset-0 opacity-20 pointer-events-none">
           <div className="absolute top-20 left-10 w-4 h-4 border-2 border-white rotate-45" />
