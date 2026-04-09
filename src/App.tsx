@@ -6,9 +6,17 @@ import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
 export default function App() {
-  const VERSION = "2.1.3";
+  const VERSION = "2.1.4";
   console.log(`[SYSTEM] Booting version ${VERSION} at ${new Date().toISOString()}`);
+  console.log(`[DEBUG] Current URL: ${window.location.href}`);
   const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
+  
+  // Force dashboard on initial load to prevent getting stuck in games view
+  React.useEffect(() => {
+    console.log('[SYSTEM] Forcing view to amplify on mount');
+    setView('amplify');
+  }, []);
+
   console.log('Current view state:', view);
   const [dashboardTab, setDashboardTab] = useState<string>('apps'); // 'apps', 'todo', 'past'
   const [activeTab, setActiveTab] = useState<string>('games');
@@ -1145,6 +1153,9 @@ export default function App() {
           </div>
 
           <div className="flex items-center gap-2">
+            <div className="bg-red-600 text-white text-[8px] px-2 py-1 rounded font-bold animate-pulse hidden sm:block">
+              v{VERSION} ACTIVE
+            </div>
             <button 
               onClick={() => setView('amplify')}
               className="p-2 hover:bg-white/10 rounded-lg transition-colors group relative"
