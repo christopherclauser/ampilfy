@@ -6,7 +6,7 @@ import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
 export default function App() {
-  const VERSION = "2.1.1";
+  const VERSION = "2.1.2";
   console.log(`App mounting... Version: ${VERSION} (${new Date().toISOString()})`);
   const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
   console.log('Current view state:', view);
