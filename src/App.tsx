@@ -6,7 +6,8 @@ import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
 export default function App() {
-  console.log('App mounting... Version: ' + new Date().toISOString());
+  const VERSION = "2.1.0";
+  console.log(`App mounting... Version: ${VERSION} (${new Date().toISOString()})`);
   const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
   console.log('Current view state:', view);
   const [dashboardTab, setDashboardTab] = useState<string>('apps'); // 'apps', 'todo', 'past'
@@ -897,12 +898,15 @@ export default function App() {
         </div>
 
         {/* Classroom Header */}
-        <header className="bg-white text-[#5F6368] px-4 h-16 flex items-center justify-between sticky top-0 z-50 shadow-sm border-b border-gray-200">
+        <header className="bg-white text-[#5F6368] px-4 h-16 flex items-center justify-between sticky top-0 z-50 shadow-sm border-b-4 border-[#FF6B00]">
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-2">
               <div className="w-10 h-10 bg-[#FF6B00] rounded-lg flex items-center justify-center text-white font-black text-2xl shadow-md transform -rotate-3">A</div>
               <div className="flex flex-col -space-y-1">
-                <span className="text-2xl font-black tracking-tighter text-[#202124] uppercase">Amplify</span>
+                <div className="flex items-center gap-2">
+                  <span className="text-2xl font-black tracking-tighter text-[#202124] uppercase">Amplify</span>
+                  <span className="bg-black text-white text-[8px] px-1 rounded font-mono">v{VERSION}</span>
+                </div>
                 <span className="text-[10px] font-bold text-[#5F6368] uppercase tracking-[0.3em] opacity-70">Education</span>
               </div>
             </div>
