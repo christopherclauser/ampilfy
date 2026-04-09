@@ -6,7 +6,7 @@ import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
 export default function App() {
-  const VERSION = "2.1.0";
+  const VERSION = "2.1.1";
   console.log(`App mounting... Version: ${VERSION} (${new Date().toISOString()})`);
   const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
   console.log('Current view state:', view);
@@ -1159,7 +1159,7 @@ export default function App() {
                 Cloak Site
               </span>
             </button>
-            <a href="https://github.com/TopherClauser/TopherGames" target="_blank" rel="noopener noreferrer" className="p-2 hover:bg-white/10 rounded-lg transition-colors">
+            <a href="https://christopherclauser.github.io/ampilfy/" target="_blank" rel="noopener noreferrer" className="p-2 hover:bg-white/10 rounded-lg transition-colors">
               <Github className="w-5 h-5 text-zinc-400" />
             </a>
           </div>
