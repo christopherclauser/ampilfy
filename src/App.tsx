@@ -6,7 +6,7 @@ import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
 export default function App() {
-  const VERSION = "2.1.5";
+  const VERSION = "2.1.6";
   console.log(`[SYSTEM] Booting version ${VERSION} at ${new Date().toISOString()}`);
   console.log(`[DEBUG] Current URL: ${window.location.href}`);
   const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
@@ -887,6 +887,7 @@ export default function App() {
         <div className="bg-black text-[#00f3ff] text-[10px] py-1 px-4 font-mono flex justify-between items-center border-b border-[#00f3ff]/30 z-[60] relative">
           <span>SYSTEM STATUS: OPERATIONAL</span>
           <span className="animate-pulse">BUILD_ID: {VERSION}_STABLE</span>
+          <span className="text-red-500 font-bold">RETRO_BOWL_REMOVED</span>
           <span>{new Date().toLocaleDateString()}</span>
         </div>
         {/* Background Patterns */}
