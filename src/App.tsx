@@ -6,7 +6,7 @@ import soundsData from './sounds.json';
 import moviesData from './movies.json';
 
 export default function App() {
-  const VERSION = "2.1.4";
+  const VERSION = "2.1.5";
   console.log(`[SYSTEM] Booting version ${VERSION} at ${new Date().toISOString()}`);
   console.log(`[DEBUG] Current URL: ${window.location.href}`);
   const [view, setView] = useState<string>('amplify'); // 'amplify' or 'app'
